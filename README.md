@@ -44,3 +44,6 @@ The developers implemented USB communication between the host PC and the device.
 
 
 ###### See *.pdf Documents for complete Documentation 
+
+###### Watch this for a trailer
+Project Video: https://www.youtube.com/watch?v=QIEyBs-X2OY
