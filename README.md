@@ -1,0 +1,1 @@
+The PC-Based Microcontroller Programmer and Training Kit is a device that utilizes the PIC Microcontrollers to guide students and hobbyists on interfacing with microcontrollers. The software and hardware package can also be used in developing applications for the PIC MCU and the training kit modules included.
