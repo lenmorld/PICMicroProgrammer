@@ -1,3 +1,14 @@
+## PC-Based Microcontroller Programmer and Training Kit
+
+Developed by:
+* Lenmor Larroza Dimanalata (Leader)
+* Romeo B. Paderna III
+* Agustin Ace Dones
+* JonJon Legaspi
+
+for the completion of BS Computer Engineering Thesis
+Batch 2012 @ STI College Rosario, Cavite, Philippines
+
 The PC-Based Microcontroller Programmer and Training Kit is a device that utilizes the PIC Microcontrollers to guide students and hobbyists on interfacing with microcontrollers. The software and hardware package can also be used in developing applications for the PIC MCU and the training kit modules included.
 
 ## General Objective
@@ -30,3 +41,6 @@ The developers implemented USB communication between the host PC and the device.
 
 
 ![alt text](https://github.com/lenmorld/PICMicroProgrammer/blob/master/full.JPG "Logo Title Text 1")
+
+
+###### See *.pdf Documents for complete Documentation 
